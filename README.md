@@ -1,16 +1,14 @@
-### Hi there 👋
+### About us:
 
-<!--
-**FrostbiteStudios/FrostbiteStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are a small development team dedicated to creating high-quality games and other fun stuff.
 
-Here are some ideas to get you started:
+### The team:
+- FrostGhost21 (Owner and Lead Programmer)
+- FlyingDog (Programmer)
+- Renovqte (Lead Branding)
+- Infinit3 (Concept Artist and Software Tester)
+- Epic6008 (Concept Artist)
+- CutePandaCCTT (Lead Sound Designer and Composer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts:
+Email: fgbusiness7@gmail.com
